@@ -1,2 +1,3 @@
 # Credit-Analysis
-# Credit-Analysis
+
+Submission for Duke Quantitative Finance Club
