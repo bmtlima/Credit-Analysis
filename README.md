@@ -1,6 +1,6 @@
 # Credit-Analysis
 
-Submission for Duke Quantitative Finance Club
+Submission for Duke Quantitative Finance Club. Go to solution.ipynb to access my submission
 
 Overview:
 
